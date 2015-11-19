@@ -1,4 +1,7 @@
 # eBusker
+
+
+Team Members: Andrew Nelson(Axure Prototype), Lily Peng(Android UI) and Manasvi Lalwani(Android Development)
 A digital medium for tipping street performers, or buskers
 
 You're walking down the street, and you see a really cool street performance or busker (https://youtu.be/2fXZ1V0hlqg). Alas! You're all out of cash or you don't want to dig around your bags to find some change. At the end of the busker's performance, they have to stay vigilant of their cash box and later deal with safety issues of having a (hopefully) relatively large amount of coins and cash.
